@@ -1,0 +1,91 @@
+
+    h1, h2, h3{
+         text-align: center;
+         font-style:oblique;
+    }
+    header{
+        background-color: rgb(251, 147, 237);
+        display: flex;
+        justify-content: center;
+    }
+    footer{
+        background-color: rgb(251, 147, 237);
+        display: flex;
+        justify-content: center;  
+    }
+        .myself{
+         margin: 0 auto;
+         text-align: center;
+         width: 300px;
+         display: block;
+        }
+        .nav-list{
+          display: flex;
+          flex-direction: row;
+          gap: 100px
+           }
+        .skills{
+            justify-content: center;
+            margin-left: 40%;
+        }
+        .hobbies-row{
+            display: flex;
+         flex-wrap: wrap;
+         flex-direction: row;
+           gap: 98px;
+           justify-content: center;
+        }
+        .text-hobby{
+            display: flex;
+        }
+        .hobbies-row{
+            list-style: none;
+        }
+        .imgg{
+        margin-left: 5%;
+        }
+        .hobby{
+            display: flex;
+            flex: center;
+            color: rgb(232, 108, 133);
+        }
+        .my-hobbies{
+            display: flex;
+           margin-left: 40%;
+        }
+        .fav-row{
+         
+        }
+        ul{
+            list-style: none;
+        }
+        .h2-favs{
+            display: flex;
+            margin-left: 10%;
+        }
+        .fav-songs{
+         
+         }
+         .songs{
+          display: flex;  
+          margin-left: 15%;
+         }
+         .holiday-row{
+          
+         }
+         .h2-holidays{
+            display: flex;
+            margin-left: 25%;
+        }
+        
+         .socials-photo{
+            display: flex;
+            gap: 300px;
+            flex-wrap: wrap;
+             margin-left: 15%;
+             margin-top: 10%;
+         }
+        .section-fav{
+            display: flex;
+            justify-content: center;
+        }
